@@ -1,7 +1,9 @@
 100 Archive Website 
 ==============
 
-This is the official repository for the 100 Archive Website.(http://100archive.com) It contains: 
+This is the official repository for the 100 Archive Website: http://100archive.com
+
+It contains: 
 
 * All Current ExpressionEngine Template Files
 * All CSS + JS
