@@ -1,0 +1,1 @@
+limit="1" disable="member_data|pagination" show_expired="yes" require_entry="yes" status="not closed"
