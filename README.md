@@ -1,7 +1,7 @@
 100 Archive Website 
 ==============
 
-This is the official repository for the 100 Archive Website: http://100archive.com
+This is the official repository for the 100 Archive: http://100archive.com
 
 It contains: 
 
